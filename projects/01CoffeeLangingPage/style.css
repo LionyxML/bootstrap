@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Gorditas&display=swap');
+
+body {
+  background: url(coffeeblur.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.hero {
+  text-align:center;
+  margin-top:10%;
+  color: #fff;
+  font-size: 70px;
+  letter-spacing: -0.03em;
+  line-height: 1.2em;
+  font-family: 'Gorditas', cursive;
+
+}
+
+.ima{
+  width: 500px;
+}
