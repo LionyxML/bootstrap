@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap');
+
+body{
+  background: url(bg.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+h1{
+  font-family: 'Original Surfer', cursive;
+  font-size: 4em;
+  color: black;
+
+}
+
+.bg{
+  background-color: white;
+  opacity: 0.5;
+}
+
+.rowHeight{
+  height: 300px;
+}
+
+img{
+  width: 100px;
+}
+
+img:hover{
+  width: 110px;
+}
+
+.footer{
+  bottom: 0;
+  position: fixed;
+  background-color: white;
+}
+
+p{
+  font-size: 15px;
+  padding-top: 10px;
+}
