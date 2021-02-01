@@ -1,0 +1,33 @@
+body {
+  background: url(../images/back.jpg) no-repeat center center fixed;
+  background-color: #464646;
+  background-size: cover;
+}
+
+.modal-body {
+  background: #D3CCE3;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #E9E4F0, #D3CCE3);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #E9E4F0, #D3CCE3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.container {
+  margin: 20px auto;
+  padding: 20px;
+  color: black;
+  background-color: #c1c1c1;
+}
+
+#img_logo{
+  max-wid: 100px;
+  max-height: 100px;
+  margin: 0 auto;
+  background-color: black;
+}
+
+#login-modal .modal-dialog {
+  width: 350px;
+}
+
+#login-modal input[type=text], input[type=password]{
+  margin-top: 10px;
+}
